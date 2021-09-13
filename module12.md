@@ -1,0 +1,55 @@
+# Module 12 - Evading IDS, Firewalls and Honeypots
+
+## concepts
+- IDS (Intrusion detection system)
+    - does not stop anything
+    - signature detection
+    - anomaly detection
+    - protocolo anomaly detection
+- types of IDS
+    - network-based
+    - host-based
+- types of alarm
+    - true positive (attack -> alert)
+    - false positive (no attack -> alert)
+    - true negative (attack -> no alert)
+    - false negative (no attack -> no alert)
+- IPS (type of IDS with capability of preventing intrusions)
+- Firewall (hardware vs software)
+    - bastion host
+    - screened subnet
+    - multi-homed subnet
+- packet filtering firewall 
+    - works on layer 3 (internet)
+- circuit-level gateway firewall
+    - works on layer 4 (transport)
+- application-level firewall
+    - works on level 5 (application)
+    - it works like a proxy server
+- stateful multilayer inspection firewall
+    - works on level 3, 4 and 5
+- application proxy (can be merge with application-level firewall)
+- NAT (Network Address Translation)
+- VPN (Virtual Private Network)
+- Honeypot
+    - it's not real, it's a trap, it's a decoy
+    - emulates system resources
+    - it's meant to attract an attacker
+- types of honeypot
+- snort rules
+- IDS evasion techniques
+    - obfuscating
+    - overlapping fragments
+    - invalid RST packets
+    - urgency flag
+    - polymorphic shellcode
+    - Application-layer attack
+    - Encryption
+    - Flooding
+    - ...
+- firewall identification
+- firewalking (it use TTL to maps network analyzing IP packet responses)
+## tools
+- KFSensor
+- SPECTER
+- Snort
