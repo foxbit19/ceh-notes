@@ -1,0 +1,58 @@
+# Module 20 - Cryptography
+
+## concepts
+- definition of cryptography: conversion of data into a scarambled code that is encrypted
+- objective of cryptography
+    - confidentialy
+    - integrity
+    - authentication
+    - non repudation
+- symmetric vs asymettric encryption
+    - asymmetric is 10 times slower of symmetric one
+    - symmetric needs key distribution
+- types of ciphers
+- DES and AES
+- RC4; symmetric key cipher
+- RC5: parametrized algorithm with key length of 128
+- RC6: symmetric key block cipher
+- DSA (Digital Signature Algorithm)
+- RSA (Rivest Shamir Adelman)
+- Diffie Hellman
+- Message digest (MD, one-way hash) functions
+- MD5 and MD6
+- Secure Hashing Algorithm (SHA)
+    - SHA-1 - 160bit digest
+    - SHA-2 - 32 bit words and 64 bit words
+    - SHA-3 - sponge construction
+- RIPEDM and HMAC
+- Public Key Infrastructure (PKI)
+    - Registration authority (RA)
+    - Cerification authority (CA)
+    - Validation authority (VA)
+- Signed Cerificate vs self-signed certificate
+- Digital signature
+- Transport Layer Security (TLS)
+- Pretty Good Privacy (PGP)
+    - Web of Trust (WOT)
+- Disk Encryption
+    - confidentiality
+    - encryption
+    - protection
+- Code breaking methodologies
+    - brute force
+    - frequency analysis
+    - trickery and deceit (involves the use of social engineering techniques)
+    - one-time pad
+- Cryptography attack
+    - cyphertext-only attack
+    - adaptive chosen attack
+    - ...
+- Birtday attack (birthday paradox)
+- Side-channel attack (observing)
+- Hash collision attack
+- Rainbow table attack
+
+
+## tools
+- VeraCrypt (to encrypt fs)
+- CryptTool
