@@ -1,0 +1,67 @@
+# Module 1 - Introduction to ethical hacking
+
+## concepts
+- elements of information security (CIA)
+    - confidentiality
+    - integrity
+    - availability
+- extension of CIA
+    - authenticity (digital signature)
+    - non-repudation
+- attack = motive (goal) + method + vulnerability
+- classification of attacks
+- information warfare
+- cyber kill chain methodology
+    - recon
+    - weponization
+    - deliery
+    - exploitation
+    - installation
+    - command control
+    - action and objectives
+- IoC (indicators of compromise)
+- hacker classes
+- recoinnaissance
+    - passive
+    - active
+- scanning
+    - pre-attack
+    - port scanner
+    - extract information
+- gaining access
+    - access to operating system or application
+    - privileges escalation
+    - password cracking
+    - session hijacking
+- maintaing access
+    - backdoor
+    - rootkit
+- clearing tracks
+- ethical hacking
+    - do the same things of a bad guys
+    - with permission
+    - for defences purposes
+- skills of a ethical hacker
+    - technical
+    - non-technical
+- information assurance (IA)
+- risk = impact * probability
+- risk management
+    - identification
+    - assesment
+    - treatment
+    - tracking
+    - review
+- threat modeling
+- incident management
+- role of AI and ML in cybersecurity
+- information security laws and standards
+    - PCI DSS
+    - ISO 27001
+    - HIPAA
+    - SOX
+    - DMCA
+    - FISMA
+    
+
+## tools
