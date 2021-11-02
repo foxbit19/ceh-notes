@@ -31,7 +31,7 @@
 - nmap script engine
 - packet fragmentation
 - source routing (create custom chain of hops)
-- source port manupiulation
+- source port manipulation
 - ip address decoy and spoofing
 - ip spoofing detection tencniques:
   - ttl may be different
