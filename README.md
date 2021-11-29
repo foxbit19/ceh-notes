@@ -22,3 +22,4 @@ Do a lot of tests and simulations. You have to be ready.
 - [05 - Vulnerability analysis](modules/05.md)
 - [06 - System hacking](modules/06.md)
 - [07 - Malware threats](modules/07.md)
+- [08 - Sniffing](modules/08.md)
