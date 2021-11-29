@@ -23,4 +23,5 @@ Do a lot of tests and simulations. You have to be ready.
 - [06 - System hacking](modules/06.md)
 - [07 - Malware threats](modules/07.md)
 - [08 - Sniffing](modules/08.md)
-- [08 - Social engineering](modules/09.md)
+- [09 - Social engineering](modules/09.md)
+- [10 - Denial of service](modules/10.md)
