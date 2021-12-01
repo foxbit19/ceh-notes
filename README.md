@@ -26,3 +26,4 @@ Do a lot of tests and simulations. You have to be ready.
 - [09 - Social engineering](modules/09.md)
 - [10 - Denial of service](modules/10.md)
 - [11 - Session hijacking](modules/11.md)
+- [12 - Evading IDS, Firewalls and Honeypots](modules/12.md)
