@@ -28,3 +28,4 @@ Do a lot of tests and simulations. You have to be ready.
 - [11 - Session hijacking](modules/11.md)
 - [12 - Evading IDS, Firewalls and Honeypots](modules/12.md)
 - [13 - Hacking web server](modules/13.md)
+- [14 - Hacking web application](modules/14.md)
