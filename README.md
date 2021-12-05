@@ -31,3 +31,4 @@ Do a lot of tests and simulations. You have to be ready.
 - [14 - Hacking web application](modules/14.md)
 - [15 - SQL injection](modules/15.md)
 - [16 - Hacking Wireless Networks](modules/16.md)
+- [17 - Hacking mobile platforms](modules/17.md)
