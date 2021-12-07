@@ -33,3 +33,9 @@ Do a lot of tests and simulations. You have to be ready.
 - [16 - Hacking Wireless Networks](modules/16.md)
 - [17 - Hacking mobile platforms](modules/17.md)
 - [18 - IoT and OT Hacking](modules/18.md)
+
+## Extra
+
+- [Tools](extra/tools.md)
+- [Common HTTP services](extra/ports.md)
+- [Wireless standards](extra/wireless_standards.md)
