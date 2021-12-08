@@ -7,8 +7,24 @@
     </thead>
 <tbody>
     <tr>
+        <td>21</td>
+        <td>FTP</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>SSH</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>Telnet</td>
+    </tr>
+    <tr>
         <td>25</td>
         <td>SMTP</td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>DNS</td>
     </tr>
     <tr>
         <td>80</td>
@@ -23,12 +39,36 @@
         <td>Kerberos</td>
     </tr>
     <tr>
+        <td>137</td>
+        <td>Netbios/WINS (Windows Internet Name Service)</td>
+    </tr>
+    <tr>
+        <td>139</td>
+        <td>Netbios Windows port for null-session establishment and printer sharing</td>
+    </tr>
+    <tr>
+        <td>179</td>
+        <td>BGP (Border Gateway Protocol)</td>
+    </tr>
+    <tr>
         <td>384</td>
         <td>Remote Network Server System </td>
     </tr>
     <tr>
+        <td>389</td>
+        <td>LDAP</td>
+    </tr>
+    <tr>
         <td>443</td>
         <td>SSL (HTTPS)</td>
+    </tr>
+    <tr>
+        <td>445</td>
+        <td>SMB</td>
+    </tr>
+    <tr>
+        <td>500</td>
+        <td>IPSec IKE</td>
     </tr>
     <tr>
         <td>514</td>
@@ -41,6 +81,10 @@
     <tr>
         <td>631</td>
         <td>ipp service - printer sharing</td>
+    </tr>
+    <tr>
+        <td>636</td>
+        <td>encrypted LDAP</td>
     </tr>
     <tr>
         <td>657</td>
