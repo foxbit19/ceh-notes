@@ -39,6 +39,10 @@
         <td>Open Directory Proxy (ODProxy)</td>
     </tr>
     <tr>
+        <td>631</td>
+        <td>ipp service - printer sharing</td>
+    </tr>
+    <tr>
         <td>657</td>
         <td>IBM RMC (Remote monitoring and Control) Protocol </td>
     </tr>
