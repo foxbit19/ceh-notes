@@ -7,6 +7,10 @@
     </thead>
 <tbody>
     <tr>
+        <td>25</td>
+        <td>SMTP</td>
+    </tr>
+    <tr>
         <td>80</td>
         <td>World Wide Web standard port </td>
     </tr>
