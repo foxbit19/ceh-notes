@@ -9,3 +9,4 @@
 - ALE - Annualized Loss Expectancy (ALE = ARO * SLE)
 - WINS - Windows Internet Name Service
 - MIB - Management information database
+- UDLD - Unidirectional Link Detection

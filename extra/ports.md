@@ -27,6 +27,10 @@
         <td>DNS</td>
     </tr>
     <tr>
+        <td>69 UDP</td>
+        <td>TFTP (Trivial File Transfer Protocol)</td>
+    </tr>
+    <tr>
         <td>80</td>
         <td>World Wide Web standard port </td>
     </tr>

@@ -9,9 +9,50 @@
 - Retina CS - Vulnerability Management Software
 - NetIQ secure configuration manager - helps to enforce security configuration policy across critical systems
 - Burp suite - Session analysis, session hijacking tool
-- Netscan Pro - collection of internet information gathering and network troubleshooting utilities 
+- Netscan tool Pro - collection of internet information gathering and network troubleshooting utilities, SMTP Email Generator tool tests the process of sending an email message through an SMTP server 
 - GFI LanGuard - network security scanner and patch management
 - nikto/nikto2 - Website Vulnerability Scanner
-- OpUtils - IP address and switch port management software (use SNMP)
-- SuperScan - TCP/UDP port scanner
+- OpUtils - IP address and switch port management software (it uses SNMP)
+- SuperScan - TCP/UDP port scanner, can be used to perform netBIOS enumeration
 - Hyena - active directory enumeration
+- XOIC - DoS attacks
+- JXplorer - LDAP browser and editor, LDAP enumeration
+- Slowloris - HTTP DoS attack software code
+- HULK - DDoS Tool
+- SoftPerfect network scanner - can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell, NETbios enumeration
+- NSauditor - scanning and detecting vulnerabilities, Monitoring access from network to shared files and folders, Detecting and controlling network data access policy violations, NETbios enumeration
+- keygrabber - hardware keylogger
+- OllyDbg - 32-bit assembler level analysing debugger for Windows
+- Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
+- RPCscan - Tool to communicate with RPC services and check misconfigurations on NFS shares
+- snmpcheck - permits to enumerate information via SNMP protocol
+- smtp-user-enum - Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+    - `-U file` - Select the file containing usernames to check via the SMTP service
+    - `-t host` - Specify the server host running the SMTP service
+    - `-T file` - Select the file containing hostnames running the SMTP service
+    - `-u user` - Check if a user exists on the remote system
+- enyx - Enyx SNMP IPv6 Enumeration Tool
+- finger - is a user information lookup command which gives details of all the users logged in
+    - `-m`: Prevents the matching of usernames.
+    - `-s`: Displays the user’s login name, real name, terminal name, idle time, login time, office location, and office phone number
+    - `-l`: Produces a multi-line format displaying all of the information described for the -s option as well as the user’s home directory, home phone number, login shell, mail status, and the contents of the files “.plan,” “.project,” “.pgpkey,” and “.forward” from the user’s home directory
+    - `-p`: Prevents the -l option of finger from displaying the contents of the “.plan,” “.project,” and “.pgpkey” files.
+- DNSrecon - DNS recoinnaissance tool
+- Svmap - network scanner for SIP (Session Initiator Protocol) similar to nmap
+- betterCAP - the Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and IPv4 and IPv6 networks reconnaissance and MITM attacks
+- Xplico - is a network forensics analysis tool (NFAT), which is a software that reconstructs the contents of acquisitions performed with a packet sniffer (e.g. Wireshark, tcpdump, Netsniff-ng). 
+- AnDOSid - is an android tool that you can use to launch DoS attacks from your mobile phone
+- whonix - is software designed to preserve privacy and anonymity by helping users run applications anonymously
+- FaceNiff - is an Android app that allows you to sniff and intercept web session profiles over the WiFi
+- reaver - performs a brute force attack against an access point’s WiFi Protected Setup pin number
+- suricata - threat detection engine
+- WIBR+ - WIfi BRuteforce is an application for testing of security of the wpa wpa2 psk wifi networks
+- DerbNSpoof - DNS Spoofing tool made in Python 3 with Scapy
+- Cain and Abel - password recovery tool for Microsoft Windows. It could recover many kinds of passwords using methods such as network packet sniffing, cracking various password hashes by using methods such as dictionary attacks, brute force and cryptanalysis attacks
+- Robber - tool to manage DLL
+- Powersploit - tool to manage DLL 
+- GMER - is an application that detects and removes rootkits
+- NetVizor - it records everything on a host: chats, keystrokes and emails, site and on-line search activity, application usage, file usage, uploads and downloads, computer software setups, and web traffic.
+- Stream Armor - is the sophisticated tool to discover Hidden Alternate Data Streams (ADS) and clean them completely from your system
+- snow - whitespace steganografy tool
+- Cipher.exe - is a command-line tool (included with Windows 2000) that you can use to manage encrypted data
