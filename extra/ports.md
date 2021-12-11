@@ -63,8 +63,12 @@
         <td>LDAP</td>
     </tr>
     <tr>
+        <td>427</td>
+        <td>LDAP</td>
+    </tr>
+    <tr>
         <td>443</td>
-        <td>SSL (HTTPS)</td>
+        <td>SLP (Service Locator Protocol)</td>
     </tr>
     <tr>
         <td>445</td>
