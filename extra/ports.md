@@ -63,7 +63,7 @@
         <td>LDAP</td>
     </tr>
     <tr>
-        <td>427</td>
+        <td>SLP (Service Location Protocol)</td>
         <td>LDAP</td>
     </tr>
     <tr>

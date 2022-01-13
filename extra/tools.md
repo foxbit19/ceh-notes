@@ -56,3 +56,5 @@
 - Stream Armor - is the sophisticated tool to discover Hidden Alternate Data Streams (ADS) and clean them completely from your system
 - snow - whitespace steganografy tool
 - Cipher.exe - is a command-line tool (included with Windows 2000) that you can use to manage encrypted data
+- BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser
+- USB dumper - is a tool designed to silently copy the files and folders of any USB devices connected in your computer
