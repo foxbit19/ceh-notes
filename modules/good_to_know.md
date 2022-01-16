@@ -54,7 +54,40 @@ Determine the strength of the key used in the key exchange process
 
 > **When the serial number within the SOA record of the primary server is higher than the Serial number within the SOA record of the secondary DNS server, a zone transfer will take place**.
 
+## TCP flags
+
+- SYN
+- ACK
+- FIN
+- RST
+- PSH
+- URG
 ## Three-way handshake
 Connection Establishment: `SYN`, `SYN-ACK`, `ACK`
 
 Connection Termination: `FIN`, `ACK-FIN`, `ACK`
+
+## OWASP top 10 (2017)
+
+1. Injection
+2. Broken authentication
+3. Sensitive data exposure
+4. XML External Entity (XXE)
+5. Broken access control
+6. Security misconfiguration
+7. Cross Site Sripting (XSS)
+8. Insecure deserialization
+9. Use components with know vulnerabilities
+10. Insufficient logging and monitoring
+
+##  N-tier architecture
+- presentation tier - user interface
+- logic tier - coordinates apps, commands
+- data tier - storage
+
+## PKI
+- Certificate authority (CA) - stores, issues and signs the digital certificates;
+- Registration authority (RA) - verifies the identity of entities requesting their digital certificates to be stored at the CA;
+- Central directory — a secure location in which keys are stored and indexed;
+- Certificate management system managing things like the access to stored certificates or the delivery of the certificates to be issued;
+- Certificate policy stating the PKI's requirements concerning its procedures. Its purpose is to allow outsiders to analyze the PKI's trustworthiness.
