@@ -11,7 +11,12 @@
 8. `-sV` - service version detection
 9. `-sn` - disable port scan (this is often known as a “ping scan”)
 10. `-T<n>` - timing (lower is better for stealth)
-    ![nmap timing](assets/nmap_timing.webp)
+    - `-T0` - 5m
+    - `-T1` - 15s
+    - `-T2` - 0,4s
+    - `-T3` - default
+    - `-T4` - 10ms
+    - `-T5` - 5ms
 11. `-sX` - XMAS scan (FIN, URG, PSH)
     - `hping -FUP`
 12. `-sF` - FIN scan
