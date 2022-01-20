@@ -31,10 +31,10 @@ From top to bottom
 Determine the strength of the key used in the key exchange process
 
 - DH Group 1: 768-bit
-- DH Group 15: 3072-bit
 - DH Group 2: 1024-bit
 - DH Group 5: 1536-bit
 - DH Group 14: 2048-bit
+- DH Group 15: 3072-bit
 
 ## Dns records
 - `A ` -> host ip address
@@ -91,3 +91,11 @@ Connection Termination: `FIN`, `ACK-FIN`, `ACK`
 - Central directory — a secure location in which keys are stored and indexed;
 - Certificate management system managing things like the access to stored certificates or the delivery of the certificates to be issued;
 - Certificate policy stating the PKI's requirements concerning its procedures. Its purpose is to allow outsiders to analyze the PKI's trustworthiness.
+
+## IoT architecture (from top to bottom)
+
+- `application layer` - Delivery of various applications to different users in IoT
+- `middleware layer` - Device management and information management
+- `internet layer` - Connection between endpoints
+- `access gateway layer` - Protocol translation and messaging
+- `edge technology layer` - Sensors, devices, machines, and intelligent edge nodes of various types

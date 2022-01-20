@@ -36,8 +36,10 @@ Do a lot of tests and simulations. You have to be ready.
 - [19 - Cloud computing](modules/19.md)
 - [20 - Cryptography](modules/20.md)
 
-## Extra
+## Some concepts... in pills
 
 - [Tools](extra/tools.md)
 - [Common HTTP services](extra/ports.md)
 - [Wireless standards](extra/wireless_standards.md)
+- [Good to know](extra/good_to_know.md)
+- [Most wanted](wanted/README.md)
