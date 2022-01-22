@@ -9,8 +9,6 @@
 7. `Armitage` - GUI for metasploit
 8. `Nikto` - web server scanner which performs vulnerability scanning against web servers for multiple items
 9. `Metagoofil` - is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company
-10. `Wireshark` - is a free and open-source packet analyzer
-11. `Tcpdump` - it is similar to Wireshark
 12. `reaver` - performs a brute force attack against an access point’s WiFi Protected Setup pin number
 13. `finger` - is a user information lookup command which gives details of all the users logged in
 14. `Whisker` - is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding “Shadow Credentials” to the target account.

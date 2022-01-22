@@ -58,3 +58,9 @@
 - Cipher.exe - is a command-line tool (included with Windows 2000) that you can use to manage encrypted data
 - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser
 - USB dumper - is a tool designed to silently copy the files and folders of any USB devices connected in your computer
+- `Wireshark` - free and open-source packet analyzer (in the past was called `Ethereal`)
+    - `WinPcap` - tool for link-layer network access in Windows environments, allowing applications to capture and transmit network packets bypassing the protocol stack, and including kernel-level packet filtering, a network statistics engine and support for remote packet capture
+    - `Airpcap` - Riverbed AirPcap USB-based adapters capture 802.11 wireless traffic for analysis
+- `Tcpdump` - it is similar to `Wireshark` (also defined ad wireshark for CLI)
+- `Scout Suite` - is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments
+- `Unified Threat Management (UTM)` - is one that enforces a variety of security-related measures, combining the work of a firewall, malware scanner, and intrusion detection/prevention

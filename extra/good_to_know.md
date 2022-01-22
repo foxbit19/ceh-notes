@@ -27,15 +27,6 @@ From top to bottom
 4. mitigation
 5. exploitation
 
-## Diffie-Hellman (DH) groups
-Determine the strength of the key used in the key exchange process
-
-- DH Group 1: 768-bit
-- DH Group 2: 1024-bit
-- DH Group 5: 1536-bit
-- DH Group 14: 2048-bit
-- DH Group 15: 3072-bit
-
 ## Dns records
 - `A ` -> host ip address
 - `MX` -> domain's mail server
@@ -84,6 +75,18 @@ Connection Termination: `FIN`, `ACK-FIN`, `ACK`
 - presentation tier - user interface
 - logic tier - coordinates apps, commands
 - data tier - storage
+
+Tier-1: Developer machines - image creation, testing and accreditation
+
+Tier-2: Testing and accreditation systems - verification and validation of image contents, signing images and sending them to the registries
+
+Tier-3: Registries - storing images and disseminating images to the orchestrators based on requests
+
+Tier-4: Orchestrators - transforming images into containers and deploying containers to hosts
+
+Tier-5: Hosts - operating and managing containers as instructed by the orchestrator
+
+
 
 ## PKI
 - Certificate authority (CA) - stores, issues and signs the digital certificates;

@@ -43,3 +43,7 @@ Do a lot of tests and simulations. You have to be ready.
 - [Wireless standards](extra/wireless_standards.md)
 - [Good to know](extra/good_to_know.md)
 - [Most wanted](wanted/README.md)
+
+## References
+- EC-council study guide
+- Wikipedia
