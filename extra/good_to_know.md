@@ -27,24 +27,6 @@ From top to bottom
 4. mitigation
 5. exploitation
 
-## Dns records
-- `A ` -> host ip address
-- `MX` -> domain's mail server
-- `NS` -> host's name server
-- `CNAME` -> aliases to host
-- `SOA` -> Start of Authority
-- `SRV` -> service records
-- `PTR` -> ip address to hostname
-- `RP` -> responsible person
-- `HINFO` -> host information include CPU and OS
-- `TXT` -> unstructured text record (usually used for comments)
-
-> The SOA stores important information about a domain or zone such as the primary name server of the domain, the email address of the admin, the last update of domain, the time the server should wait before the refresh. 
-
-> It can specify how long does a DNS poisoning will last.
-
-> **When the serial number within the SOA record of the primary server is higher than the Serial number within the SOA record of the secondary DNS server, a zone transfer will take place**.
-
 ## TCP flags
 
 - SYN
