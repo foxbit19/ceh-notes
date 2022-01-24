@@ -17,7 +17,6 @@
 - Hyena - active directory enumeration
 - XOIC - DoS attacks
 - JXplorer - LDAP browser and editor, LDAP enumeration
-- Slowloris - HTTP DoS attack software code
 - HULK - DDoS Tool
 - SoftPerfect network scanner - can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell, NETbios enumeration
 - NSauditor - scanning and detecting vulnerabilities, Monitoring access from network to shared files and folders, Detecting and controlling network data access policy violations, NETbios enumeration

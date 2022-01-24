@@ -27,19 +27,6 @@ From top to bottom
 4. mitigation
 5. exploitation
 
-## TCP flags
-
-- SYN
-- ACK
-- FIN
-- RST
-- PSH
-- URG
-## Three-way handshake
-Connection Establishment: `SYN`, `SYN-ACK`, `ACK`
-
-Connection Termination: `FIN`, `ACK-FIN`, `ACK`
-
 ## OWASP top 10 (2017)
 
 1. Injection
