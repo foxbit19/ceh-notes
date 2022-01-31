@@ -1,65 +1,78 @@
 # Tools
 
-- N-Stalker X - vulnerability scanner
-- Mimikatz - password, hash, kerberos tickets extacting tool
-- vindicate - detects name service spoofing
-- immunity debugger - tool to write exploits, analyze malware
-- Netcraft - whois complete tool
-- Fortify WebInspect - Find and fix exploitable web application vulnerabilities with automated dynamic application security testing (DAST)
-- Retina CS - Vulnerability Management Software
-- NetIQ secure configuration manager - helps to enforce security configuration policy across critical systems
-- Burp suite - Session analysis, session hijacking tool
-- Netscan tool Pro - collection of internet information gathering and network troubleshooting utilities, SMTP Email Generator tool tests the process of sending an email message through an SMTP server 
-- GFI LanGuard - network security scanner and patch management
-- nikto/nikto2 - Website Vulnerability Scanner
-- OpUtils - IP address and switch port management software (it uses SNMP)
-- SuperScan - TCP/UDP port scanner, can be used to perform netBIOS enumeration
-- Hyena - active directory enumeration
-- XOIC - DoS attacks
-- JXplorer - LDAP browser and editor, LDAP enumeration
-- HULK - DDoS Tool
-- SoftPerfect network scanner - can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell, NETbios enumeration
-- NSauditor - scanning and detecting vulnerabilities, Monitoring access from network to shared files and folders, Detecting and controlling network data access policy violations, NETbios enumeration
-- keygrabber - hardware keylogger
-- OllyDbg - 32-bit assembler level analysing debugger for Windows
-- Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
-- RPCscan - Tool to communicate with RPC services and check misconfigurations on NFS shares
-- snmpcheck - permits to enumerate information via SNMP protocol
-- smtp-user-enum - Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+- `nmap` - is a powerful active reconnaissance tool
+- `hping` - assembles and sends custom ICMP, UDP, or TCP packets and then displays any replies
+- `N-Stalker X` - vulnerability scanner
+- `Mimikatz` - password, hash, kerberos tickets extacting tool
+- `vindicate` - detects name service spoofing
+- `immunity debugger` - tool to write exploits, analyze malware
+- `Netcraft` - whois complete tool
+- `Fortify WebInspect` - Find and fix exploitable web application vulnerabilities with automated dynamic application security testing (DAST)
+- `Retina CS` - Vulnerability Management Software
+- `NetIQ secure configuration manager` - helps to enforce security configuration policy across critical systems
+- `Burp suite` - Session analysis, session hijacking tool
+- `Netscan tool Pro` - collection of internet information gathering and network troubleshooting utilities, SMTP Email Generator tool tests the process of sending an email message through an SMTP server
+- `GFI LanGuard` - network security scanner and patch management
+- `nikto/nikto2` - Website Vulnerability Scanner which performs vulnerability scanning against web servers for multiple items (and checks for default passwords)
+- `OpUtils` - IP address and switch port management software (it uses SNMP)
+- `SuperScan` - TCP/UDP port scanner, can be used to perform netBIOS enumeration
+- `Hyena` - active directory enumeration
+- `XOIC` - DoS attacks
+- `JXplorer` - LDAP browser and editor, LDAP enumeration
+- `HULK` - DDoS Tool
+- `SoftPerfect network scanner` - can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell, NETbios enumeration
+- `NSauditor` - scanning and detecting vulnerabilities, Monitoring access from network to shared files and folders, Detecting and controlling network data access policy violations, NETbios enumeration
+- `keygrabber` - hardware keylogger
+- `OllyDbg` - 32-bit assembler level analysing debugger for Windows
+- `Dependency Walker` - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
+- `RPCscan` - Tool to communicate with RPC services and check misconfigurations on NFS shares
+- `snmpcheck` - permits to enumerate information via SNMP protocol
+- `smtp-user-enum` - Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
     - `-U file` - Select the file containing usernames to check via the SMTP service
     - `-t host` - Specify the server host running the SMTP service
     - `-T file` - Select the file containing hostnames running the SMTP service
     - `-u user` - Check if a user exists on the remote system
-- enyx - Enyx SNMP IPv6 Enumeration Tool
-- finger - is a user information lookup command which gives details of all the users logged in
+- `enyx` - Enyx SNMP IPv6 Enumeration Tool
+- `finger` - is a user information lookup command which gives details of all the users logged in
     - `-m`: Prevents the matching of usernames.
     - `-s`: Displays the user’s login name, real name, terminal name, idle time, login time, office location, and office phone number
     - `-l`: Produces a multi-line format displaying all of the information described for the -s option as well as the user’s home directory, home phone number, login shell, mail status, and the contents of the files “.plan,” “.project,” “.pgpkey,” and “.forward” from the user’s home directory
     - `-p`: Prevents the -l option of finger from displaying the contents of the “.plan,” “.project,” and “.pgpkey” files.
-- DNSrecon - DNS recoinnaissance tool
-- Svmap - network scanner for SIP (Session Initiator Protocol) similar to nmap
-- betterCAP - the Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and IPv4 and IPv6 networks reconnaissance and MITM attacks
-- Xplico - is a network forensics analysis tool (NFAT), which is a software that reconstructs the contents of acquisitions performed with a packet sniffer (e.g. Wireshark, tcpdump, Netsniff-ng). 
-- AnDOSid - is an android tool that you can use to launch DoS attacks from your mobile phone
-- whonix - is software designed to preserve privacy and anonymity by helping users run applications anonymously
-- FaceNiff - is an Android app that allows you to sniff and intercept web session profiles over the WiFi
-- reaver - performs a brute force attack against an access point’s WiFi Protected Setup pin number
-- suricata - threat detection engine
-- WIBR+ - WIfi BRuteforce is an application for testing of security of the wpa wpa2 psk wifi networks
-- DerbNSpoof - DNS Spoofing tool made in Python 3 with Scapy
-- Cain and Abel - password recovery tool for Microsoft Windows. It could recover many kinds of passwords using methods such as network packet sniffing, cracking various password hashes by using methods such as dictionary attacks, brute force and cryptanalysis attacks
-- Robber - tool to manage DLL
-- Powersploit - tool to manage DLL 
-- GMER - is an application that detects and removes rootkits
-- NetVizor - it records everything on a host: chats, keystrokes and emails, site and on-line search activity, application usage, file usage, uploads and downloads, computer software setups, and web traffic.
-- Stream Armor - is the sophisticated tool to discover Hidden Alternate Data Streams (ADS) and clean them completely from your system
-- snow - whitespace steganografy tool
-- Cipher.exe - is a command-line tool (included with Windows 2000) that you can use to manage encrypted data
-- BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser
-- USB dumper - is a tool designed to silently copy the files and folders of any USB devices connected in your computer
+- `DNSrecon` - DNS recoinnaissance tool
+- `Svmap` - network scanner for SIP (Session Initiator Protocol) similar to nmap
+- `Ettercap` is a comprehensive suite for man-in-the-middle attacks. It features sniffing of live connections, content filtering on the fly, and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
+- `betterCAP` - the Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and IPv4 and IPv6 networks reconnaissance and MITM attacks
+- `Xplico` - is a network forensics analysis tool (NFAT), which is a software that reconstructs the contents of acquisitions performed with a packet sniffer (e.g. Wireshark, tcpdump, Netsniff-ng).
+- `AnDOSid` - is an android tool that you can use to launch DoS attacks from your mobile phone
+- `whonix` - is software designed to preserve privacy and anonymity by helping users run applications anonymously
+- `FaceNiff` - is an Android app that allows you to sniff and intercept web session profiles over the WiFi
+- `reaver` - performs a brute force attack against an access point’s WiFi Protected Setup pin number
+- `suricata` - threat detection engine
+- `WIBR`+ - WIfi BRuteforce is an application for testing of security of the wpa wpa2 psk wifi networks
+- `DerbNSpoof` - DNS Spoofing tool made in Python 3 with Scapy
+- `Cain and Abel` - password recovery tool for Microsoft Windows. It could recover many kinds of passwords using methods such as network packet sniffing, cracking various password hashes by using methods such as dictionary attacks, brute force and cryptanalysis attacks
+- `Robber` - tool to manage DLL
+- `Powersploit` - tool to manage DLL
+- `GMER` - is an application that detects and removes rootkits
+- `NetVizor` - it records everything on a host: chats, keystrokes and emails, site and on-line search activity, application usage, file usage, uploads and downloads, computer software setups, and web traffic.
+- `Stream Armor` - is the sophisticated tool to discover Hidden Alternate Data Streams (ADS) and clean them completely from your system
+- `snow` - whitespace steganografy tool
+- `Cipher.exe` - is a command-line tool (included with Windows 2000) that you can use to manage encrypted data
+- `BeEF` - is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser
+- `USB dumper` - is a tool designed to silently copy the files and folders of any USB devices connected in your computer
 - `Wireshark` - free and open-source packet analyzer (in the past was called `Ethereal`)
     - `WinPcap` - tool for link-layer network access in Windows environments, allowing applications to capture and transmit network packets bypassing the protocol stack, and including kernel-level packet filtering, a network statistics engine and support for remote packet capture
     - `Airpcap` - Riverbed AirPcap USB-based adapters capture 802.11 wireless traffic for analysis
 - `Tcpdump` - it is similar to `Wireshark` (also defined ad wireshark for CLI)
 - `Scout Suite` - is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments
 - `Unified Threat Management (UTM)` - is one that enforces a variety of security-related measures, combining the work of a firewall, malware scanner, and intrusion detection/prevention
+- `Tripwire` - a product for configuration control by detecting, assessing, reporting and remediating file and configuration changes
+- `BBProxy` - allows the attacker to use a BlackBerry device as a proxy between the Internet and the internal network. It is used for Blackjacking
+- `Kismet` - is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework
+- `Metasploit` - a tool for developing and executing exploit code against a remote target machine
+- `Armitage` - GUI for metasploit
+- `Metagoofil` - is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company
+- `Whisker` - is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding “Shadow Credentials” to the target account.
+- `CHNTPW` - is a software utility for resetting or blanking local passwords used by Windows NT, 2000, XP, Vista, 7, 8, 8.1 and 10. It does this by editing the SAM database where Windows stores password hashes.
+- `Tcptrace` is a tool for the analysis of TCP dump files. It can take as input the files produced by several popular packet-capture programs, including tcpdump/WinDump/Wireshark, snoop, EtherPeek, and Agilent NetMetrix.
+- `Maltego` - connect data and functionalities from diverse sources using Transforms
