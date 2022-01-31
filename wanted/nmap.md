@@ -22,5 +22,6 @@
 12. `-sF` - FIN scan
     - `hping -F`
 13. `-sN` - NULL scan
-14. `-sM` - Maimon Scan(FIN/ACK)
-15. 
+14. `-sM` - Maimon Scan (FIN/ACK)
+15. `--script <filename>` - scan using NSE (nmap script engine)
+    - `-sC` - performs a script scan using the default set of scripts. It is equivalent to `--script=default`
