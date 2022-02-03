@@ -41,14 +41,10 @@
 - `DNSrecon` - DNS recoinnaissance tool
 - `Svmap` - network scanner for SIP (Session Initiator Protocol) similar to nmap
 - `Ettercap` is a comprehensive suite for man-in-the-middle attacks. It features sniffing of live connections, content filtering on the fly, and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
-- `betterCAP` - the Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and IPv4 and IPv6 networks reconnaissance and MITM attacks
 - `Xplico` - is a network forensics analysis tool (NFAT), which is a software that reconstructs the contents of acquisitions performed with a packet sniffer (e.g. Wireshark, tcpdump, Netsniff-ng).
 - `AnDOSid` - is an android tool that you can use to launch DoS attacks from your mobile phone
 - `whonix` - is software designed to preserve privacy and anonymity by helping users run applications anonymously
-- `FaceNiff` - is an Android app that allows you to sniff and intercept web session profiles over the WiFi
-- `reaver` - performs a brute force attack against an access point’s WiFi Protected Setup pin number
 - `suricata` - threat detection engine
-- `WIBR`+ - WIfi BRuteforce is an application for testing of security of the wpa wpa2 psk wifi networks
 - `DerbNSpoof` - DNS Spoofing tool made in Python 3 with Scapy
 - `Cain and Abel` - password recovery tool for Microsoft Windows. It could recover many kinds of passwords using methods such as network packet sniffing, cracking various password hashes by using methods such as dictionary attacks, brute force and cryptanalysis attacks
 - `Robber` - tool to manage DLL
@@ -62,13 +58,11 @@
 - `USB dumper` - is a tool designed to silently copy the files and folders of any USB devices connected in your computer
 - `Wireshark` - free and open-source packet analyzer (in the past was called `Ethereal`)
     - `WinPcap` - tool for link-layer network access in Windows environments, allowing applications to capture and transmit network packets bypassing the protocol stack, and including kernel-level packet filtering, a network statistics engine and support for remote packet capture
-    - `Airpcap` - Riverbed AirPcap USB-based adapters capture 802.11 wireless traffic for analysis
 - `Tcpdump` - it is similar to `Wireshark` (also defined ad wireshark for CLI)
 - `Scout Suite` - is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments
 - `Unified Threat Management (UTM)` - is one that enforces a variety of security-related measures, combining the work of a firewall, malware scanner, and intrusion detection/prevention
 - `Tripwire` - a product for configuration control by detecting, assessing, reporting and remediating file and configuration changes
 - `BBProxy` - allows the attacker to use a BlackBerry device as a proxy between the Internet and the internal network. It is used for Blackjacking
-- `Kismet` - is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework
 - `Metasploit` - a tool for developing and executing exploit code against a remote target machine
 - `Armitage` - GUI for metasploit
 - `Metagoofil` - is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company
@@ -76,3 +70,12 @@
 - `CHNTPW` - is a software utility for resetting or blanking local passwords used by Windows NT, 2000, XP, Vista, 7, 8, 8.1 and 10. It does this by editing the SAM database where Windows stores password hashes.
 - `Tcptrace` is a tool for the analysis of TCP dump files. It can take as input the files produced by several popular packet-capture programs, including tcpdump/WinDump/Wireshark, snoop, EtherPeek, and Agilent NetMetrix.
 - `Maltego` - connect data and functionalities from diverse sources using Transforms
+
+## Wireless
+- `Kismet` - is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework
+- `betterCAP` - the Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and IPv4 and IPv6 networks reconnaissance and MITM attacks
+- `Wireshark` - free and open-source packet analyzer (in the past was called `Ethereal`)
+    - `Airpcap` - Riverbed AirPcap USB-based adapters capture 802.11 wireless traffic for analysis
+- `FaceNiff` - is an Android app that allows you to sniff and intercept web session profiles over the WiFi
+- `reaver` - performs a brute force attack against an access point’s WiFi Protected Setup pin number
+- `WIBR`+ - WIfi BRuteforce is an application for testing of security of the wpa wpa2 psk wifi networks
