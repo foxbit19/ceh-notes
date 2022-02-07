@@ -62,7 +62,6 @@
 - `Scout Suite` - is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments
 - `Unified Threat Management (UTM)` - is one that enforces a variety of security-related measures, combining the work of a firewall, malware scanner, and intrusion detection/prevention
 - `Tripwire` - a product for configuration control by detecting, assessing, reporting and remediating file and configuration changes
-- `BBProxy` - allows the attacker to use a BlackBerry device as a proxy between the Internet and the internal network. It is used for Blackjacking
 - `Metasploit` - a tool for developing and executing exploit code against a remote target machine
 - `Armitage` - GUI for metasploit
 - `Metagoofil` - is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company
@@ -70,7 +69,7 @@
 - `CHNTPW` - is a software utility for resetting or blanking local passwords used by Windows NT, 2000, XP, Vista, 7, 8, 8.1 and 10. It does this by editing the SAM database where Windows stores password hashes.
 - `Tcptrace` is a tool for the analysis of TCP dump files. It can take as input the files produced by several popular packet-capture programs, including tcpdump/WinDump/Wireshark, snoop, EtherPeek, and Agilent NetMetrix.
 - `Maltego` - connect data and functionalities from diverse sources using Transforms
-
+- `Infoga` - is a tool gathering email accounts information (IP, hostname, country,...) from a different public source (search engines, PGP key servers, and shodan) and checks if emails were leaked using haveibeenpwned.com API
 ## Wireless
 - `Kismet` - is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework
 - `betterCAP` - the Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and IPv4 and IPv6 networks reconnaissance and MITM attacks
@@ -78,4 +77,5 @@
     - `Airpcap` - Riverbed AirPcap USB-based adapters capture 802.11 wireless traffic for analysis
 - `FaceNiff` - is an Android app that allows you to sniff and intercept web session profiles over the WiFi
 - `reaver` - performs a brute force attack against an access point’s WiFi Protected Setup pin number
-- `WIBR`+ - WIfi BRuteforce is an application for testing of security of the wpa wpa2 psk wifi networks
+- `WIBR+` - WIfi BRuteforce is an application for testing of security of the wpa wpa2 psk wifi networks
+- `BBProxy` - allows the attacker to use a BlackBerry device as a proxy between the Internet and the internal network. It is used for Blackjacking

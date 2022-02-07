@@ -1,4 +1,4 @@
-# Top 15 ports
+# Top 17 ports
 
 1. `21` FTP
 2. `22` SSH
@@ -15,3 +15,5 @@
 13. `445` SMB
 14. `514` SYSLOG
 15. `636` encrypted LDAP
+16. `3389` RDP (Remote Desktop Protocol)
+17. `5060` VoIP SIP (Session Initiation Protocol)
