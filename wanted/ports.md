@@ -9,9 +9,9 @@
 7. `80`	World Wide Web standard port
 8. `88`	Kerberos
 9. `123` NTP
-10. `137`	Netbios/WINS (Windows Internet Name Service)
-11. `139`	Netbios Windows port for null-session establishment and printer sharing
-12. `389`	LDAP
+10. `137` Netbios/WINS (Windows Internet Name Service)
+11. `139` Netbios Windows port for null-session establishment and printer sharing
+12. `389` LDAP
 13. `445` SMB
 14. `514` SYSLOG
 15. `636` encrypted LDAP
