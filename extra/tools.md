@@ -70,6 +70,11 @@
 - `Tcptrace` is a tool for the analysis of TCP dump files. It can take as input the files produced by several popular packet-capture programs, including tcpdump/WinDump/Wireshark, snoop, EtherPeek, and Agilent NetMetrix.
 - `Maltego` - connect data and functionalities from diverse sources using Transforms
 - `Infoga` - is a tool gathering email accounts information (IP, hostname, country,...) from a different public source (search engines, PGP key servers, and shodan) and checks if emails were leaked using haveibeenpwned.com API
+- `SMBRelay` - it can be used to carry out SMB man-in-the-middle (mitm) attacks on Windows machines
+- `L0phtCrack` - is a password auditing and recovery application used to test password strength and sometimes to recover lost Microsoft Windows passwords, by using dictionary, brute-force, hybrid attacks, and rainbow tables
+- `tcp-over-dns` - contains a special dns server and a special dns client. The client and server work in tandem to provide a TCP (and UDP!) tunnel through the standard DNS protocol ([website](https://github.com/sunapi386/tcp-over-dns)).
+
+
 ## Wireless
 - `Kismet` - is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework
 - `betterCAP` - the Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and IPv4 and IPv6 networks reconnaissance and MITM attacks
