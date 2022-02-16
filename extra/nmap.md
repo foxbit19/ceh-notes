@@ -1,0 +1,35 @@
+# Main nmap commands (and some hping counterparts)
+
+- `-sS` - SYN scan (or stealth scan)
+- `-sI` - IDLE scan
+- `-sT` - TCP connect scan (is used when the SYN scan is not an option). It is slower than SYN scan
+    - `hping -8`
+- `-sA` - This scan is used to map out firewall rulesets, determining whether they are stateful or not and which ports are filtered
+- `-6` - scan IPv6 target
+- `-p <ports>` - scan specific ports
+- `-F` - (fast) scan fewer ports than the default scan
+- `-O` - enable OS detection (requires root privileges)
+- `-sV` - service version detection
+- `-sn` - disable port scan (this is often known as a “ping scan”)
+- `-sX` - XMAS scan (FIN, URG, PSH)
+    - `hping -FUP`
+- `-sF` - FIN scan
+    - `hping -F`
+- `-sN` - NULL scan
+- `-sM` - Maimon Scan (FIN/ACK)
+- `--script <filename>` - scan using NSE (nmap script engine)
+    - `-sC` - performs a script scan using the default set of scripts. It is equivalent to `--script=default`
+- `-Pn` - skip host discovery (no ping before port scan)
+- `-PP` - ICMP timestamp ping scan
+- `-PY` - SCTP init ping
+- `-PS` - TCP SYN ping scan
+- `-T<n>` - timing (lower is better for stealth and the first two are for IDS evasion)
+    - `-T0` - paranoid, a packet every 5m (IDS evasion)
+    - `-T1` - sneaky, a packet every 15s (IDS evasion)
+    - `-T2` - polite, a packet every 0,4s
+    - `-T3` - normal (default)
+    - `-T4` - agressive, a packet every 10ms
+    - `-T5` - insane, a packet every 5ms
+- `-S <IP_Address>` - Spoof source address
+- `-D <decoy1,decoy2[,ME],...>` - Cloak a scan with decoys (use a set of spoofed IP addresses)
+- `-f; --mtu <val>`: fragment packets (optionally w/given MTU)

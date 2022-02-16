@@ -8,3 +8,4 @@
 - `RAP` - Remote Access Policy is a document which outlines and defines acceptable methods of remotely connecting to the internal network. It should cover all available methods to remotely access internal resources.
 - `UAP` - User Account Policy is a document which outlines the requirements for requesting and maintaining an account on computer systems or networks
 - `AUP` - Acceptable Use Policy is a set of rules that restricts the ways in which the network, website or system may be used and sets guidelines as to how it should be used. AUP documents are written often to reduce the potential for legal action that may be taken by a user.
+- `CMP` - refers to a process of making changes to IT, software development, and security services or operations. Ensures that updates to policies, procedures, and configurations are controlled and documented.
